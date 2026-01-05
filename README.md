@@ -95,7 +95,7 @@ I’m interested in opportunities where I can:
 
 ## 📫 Let’s Connect
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [github.com/yourusername](https://github.com/czogueri)
 - reach me at czogueri@gmail.com
 
 Thanks for stopping by — feel free to check out my repositories or reach out!
